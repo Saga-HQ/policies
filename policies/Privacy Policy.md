@@ -93,7 +93,7 @@ We use service providers in order to deliver the Service to you.
 They have access to your personal information only in specific cases that allow them to fulfil specific tasks on our behalf, for example to identify your account based on your email address and are obligated not to disclose or use it for any other purpose. 
 For the following processors, we have established GDPR-compliant data processing agreements:
 - Google Firebase (US) https://firebase.google.com/ - servers based in Europe
-- Salesforce Heroku (US) https://heroku.com/ - servers based in Europe
+- Amazon Web Services (US) https://aws.amazon.com/ - servers based in Europe
 
 ## Visiting other websites
 Our Service  and content hosted by users on Saga contain links to other sites that are not operated by us. If you click on a weblink, you will be directed to that third party's site. We advise you to review the Privacy Policy of every website you visit.
