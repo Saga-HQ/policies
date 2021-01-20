@@ -51,7 +51,7 @@ We may use the collected data for the following purposes:
 
 ## Use of your content
 Your Content is Yours. Creating Content in Saga does not change the ownership of that content. If the Content was created by you or you have legitimate rights to use Content created by someone else, Saga does not and never will claim ownership of that content.
-Other users of Saga can access your Content only if you allow them to do so by changing the sharing permissions of your pages, collections and workspaces. 
+Other users of Saga can access your Content only if you allow them to do so by changing the sharing permissions of your pages, collections and spaces. 
 We will not access or use your Content except for the following purposes: provide you with customer support for example when you explicitly allowed us access to specific content during a customer support inquiry; where compelled to do so in response to lawful requests by law enforcement or government authorities; where necessary to ensure the stability and security of our Service and our systems (for example where we believe that certain Content is degrading the stability of our servers and performance); where necessary to protect the rights, privacy, property or safety of you, us, or others.
 
 ## Security of your personal information
@@ -92,8 +92,9 @@ Before responding to such requests we will ask you to verify your identity with 
 We use service providers in order to deliver the Service to you.
 They have access to your personal information only in specific cases that allow them to fulfil specific tasks on our behalf, for example to identify your account based on your email address and are obligated not to disclose or use it for any other purpose. 
 For the following processors, we have established GDPR-compliant data processing agreements:
-- Google Firebase (US) https://firebase.google.com/ - servers based in Europe
-- Amazon Web Services (US) https://aws.amazon.com/ - servers based in Europe
+- Google Firebase (US) https://firebase.google.com/ - cloud infrastructure provider, servers based in Europe
+- Amazon Web Services (US) https://aws.amazon.com/ - cloud infrastructure provider, servers based in Europe
+- Sendgrid (US) https://sendgrid.com/ - transactional and marketing email provider, servers based in North America
 
 ## Visiting other websites
 Our Service  and content hosted by users on Saga contain links to other sites that are not operated by us. If you click on a weblink, you will be directed to that third party's site. We advise you to review the Privacy Policy of every website you visit.

@@ -47,23 +47,23 @@ You must register to use the Service. As part of the registration process, we as
 We will never sell your information to others or use it for advertising. For further details of the information we collect, how we use it, and the basis on which we do so, please see our Privacy Policy.
 You are responsible for maintaining the confidentiality of your account, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
-## 5. Workspaces
+## 5. Spaces
 
-> TL;DR: Content is organized in Workspaces. You can have multiple Workspaces. Saga can auto-link content within one Workspace, but not across Workspaces.
+> TL;DR: Content is organized in Spaces. You can have multiple Spaces. Saga can auto-link content within one Space, but not across Spaces.
 
-User Content submitted, posted or modified by users in the Service is organized into separated sections we refer to as “Workspaces.”
+User Content submitted, posted or modified by users in the Service is organized into separated sections we refer to as “Spaces.”
 
-You can work at the same time across multiple Workspaces.
-Within one Workspace, Saga can link your User Content in an automatic fashion.
-Workspaces are separate, so you won't be able to link User Content across Workspaces, nor Saga will be able to automatically link User Content for you.
+You can work at the same time across multiple Spaces.
+Within one Space, Saga can link your User Content in an automatic fashion.
+Spaces are separate, so you won't be able to link User Content across Spaces, nor Saga will be able to automatically link User Content for you.
 
 ## 6. Free Use, Subscriptions and Trials
 
-> TL;DR: Saga is free to use, for a limited number of Workspaces, with a limited number of users per Workspace. To remove this limitations, you can upgrade to a paid plan. From time to time, we may offer a free trial for our paid plan. 
+> TL;DR: Saga is free to use, for a limited number of Spaces, with a limited number of users per Space. To remove this limitations, you can upgrade to a paid plan. From time to time, we may offer a free trial for our paid plan. 
 
-You can use the Service on a free plan basis, which has a limit to the number of Workspaces that can be created.
-Workspaces included in a free plan have a limit to the number of users that can access and edit them. There is no other limitation on functionality for Workspaces on the free plan.
-You can upgrade any Workspace to a paid plan, and this will allow an unlimited number of users to access and edit it. The paid plan is only available on a paid-for subscription basis, which can be either monthly or yearly (see Billing, Section 8).
+You can use the Service on a free plan basis, which has a limit to the number of Spaces that can be created.
+Spaces included in a free plan have a limit to the number of users that can access and edit them. There is no other limitation on functionality for Spaces on the free plan.
+You can upgrade any Space to a paid plan, and this will allow an unlimited number of users to access and edit it. The paid plan is only available on a paid-for subscription basis, which can be either monthly or yearly (see Billing, Section 8).
 We may from time to time offer a Free Trial of the unlimited plan for a limited period. We may do so at our discretion, and we may, at any time, and without giving notice, modify the terms and conditions that apply to this Free Trial, or cancel it.
 
 ## 7. Referrals and Credit
