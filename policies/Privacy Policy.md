@@ -95,6 +95,7 @@ For the following processors, we have established GDPR-compliant data processing
 - Google Firebase (US) https://firebase.google.com/ - cloud infrastructure provider, servers based in Europe
 - Amazon Web Services (US) https://aws.amazon.com/ - cloud infrastructure provider, servers based in Europe
 - Sendgrid (US) https://sendgrid.com/ - transactional and marketing email provider, servers based in North America
+- Sentry (US) https://sentry.io/ - monitoring platform for software development, servers based in North America
 
 ## Visiting other websites
 Our Service  and content hosted by users on Saga contain links to other sites that are not operated by us. If you click on a weblink, you will be directed to that third party's site. We advise you to review the Privacy Policy of every website you visit.
